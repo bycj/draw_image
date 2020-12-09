@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T05:48:39.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.9.2" etag="OytleNTwDpRllfuCWtDF" type="github"><diagram id="AHb-VXQY6JoR4fbO9wpB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-09T06:17:44.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="SW7IEh3wle_ELBNtOHxG" version="13.9.2" type="github">
+  <diagram id="AHb-VXQY6JoR4fbO9wpB" name="Page-1">
+    <mxGraphModel dx="2893" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m95B95omte_kvmX2h7JZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m95B95omte_kvmX2h7JZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-4" value="生意参谋商家权限" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="177" width="120" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-5" value="生意参谋模块权限" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="262" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m95B95omte_kvmX2h7JZ-6" target="m95B95omte_kvmX2h7JZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-6" value="接口访问用户订购分布关系" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m95B95omte_kvmX2h7JZ-14" target="m95B95omte_kvmX2h7JZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-14" value="规则匹配" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-24" value="O&lt;br&gt;D&lt;br&gt;P&lt;br&gt;S&lt;br&gt;&lt;br&gt;&lt;br&gt;O&lt;br&gt;D&lt;br&gt;P&lt;br&gt;S&lt;br&gt;&lt;br&gt;&lt;br&gt;O&lt;br&gt;D&lt;br&gt;P&lt;br&gt;S" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="75" width="25" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m95B95omte_kvmX2h7JZ-28" target="m95B95omte_kvmX2h7JZ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-28" value="疑似版本越权接口" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-31" value="onelog访问日志" style="rounded=0;whiteSpace=wrap;html=1;direction=east;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="75" width="120" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-35" value="发送tickets工单给owner、在限期内修复" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="570" y="170" width="123" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-41" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m95B95omte_kvmX2h7JZ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="68" y="210" as="sourcePoint" />
+            <mxPoint x="-20" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m95B95omte_kvmX2h7JZ-42" value="" style="endArrow=classic;html=1;exitX=1.033;exitY=0.595;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="69" y="209" as="sourcePoint" />
+            <mxPoint x="-17.039999999999964" y="125.98000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
